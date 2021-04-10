@@ -1,0 +1,27 @@
+{
+  "name": "dreamcar",
+  "config": {
+    "nuxt": {
+      "host": "0.0.0.0",
+      "port": "3000"
+    }
+  },
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/vuetify": "^1.11.3",
+    "core-js": "^3.8.3",
+    "lodash": "^4.17.21",
+    "npm": "^7.9.0",
+    "nuxt": "^2.14.12",
+    "vuelidate": "^0.7.6",
+    "vuetify": "^2.4.9",
+    "vuex": "^3.6.2"
+  }
+}
